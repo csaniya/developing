@@ -1,2 +1,2 @@
 # developing
-developing document
+developing document in the developing process
